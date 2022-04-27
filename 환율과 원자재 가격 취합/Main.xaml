@@ -4460,7 +4460,7 @@
           <av:PointCollection x:Key="ConnectorLocation">840,176.5 840,206.4</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="" sap:VirtualizedContainerService.HintSize="200,68.8" sap2010:WorkflowViewState.IdRef="Sequence_283">
+      <Sequence DisplayName="STEP0_직접입력/현재시간 프로세스 구분" sap:VirtualizedContainerService.HintSize="524.8,1092.8" sap2010:WorkflowViewState.IdRef="Sequence_283">
         <Sequence.Variables>
           <Variable x:TypeArguments="sd:DataTable" Name="DT_var1" />
         </Sequence.Variables>
